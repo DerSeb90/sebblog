@@ -6,4 +6,5 @@ tags:
   - newer
   - awsomer
 ---
+So und jetzt?
 ![[Screenshot 2024-11-20 162539.png]]

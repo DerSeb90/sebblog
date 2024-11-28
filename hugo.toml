@@ -10,6 +10,8 @@ paginate = 5
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
+  DateForm = "2.1.2006"
+
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
 

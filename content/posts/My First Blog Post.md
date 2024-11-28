@@ -7,4 +7,5 @@ tags:
   - awsome
 ---
 So nun geht das ma los hier
-![[posts/attachments/Screenshot 2024-11-28 125938.png]]
+
+![[Screenshot 2024-11-28 125938.png]]
