@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Awsome on </title>
+    <link>/tags/awsome/</link>
+    <description>Recent content in Awsome on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/awsome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog Post</title>
       <link>/posts/my-first-blog-post/</link>
