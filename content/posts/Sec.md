@@ -6,3 +6,4 @@ tags:
   - newer
   - awsomer
 ---
+![[Screenshot 2024-11-20 162539.png]]
