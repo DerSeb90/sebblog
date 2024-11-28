@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awsomer on </title>
+    <link>/tags/awsomer/</link>
+    <description>Recent content in Awsomer on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/awsomer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Sec Blog Post</title>
+      <link>/posts/sec/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sec/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,5 +20,15 @@
 </content>
     </item>
     
+    <item>
+      <title>My Sec Blog Post</title>
+      <link>/posts/sec/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sec/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
