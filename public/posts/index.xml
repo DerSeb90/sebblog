@@ -14,9 +14,9 @@
       
       <guid>/posts/my-first-blog-post/</guid>
       <description>&lt;p&gt;So nun geht das ma los hier&lt;/p&gt;
-&lt;p&gt;![[Screenshot 2024-11-28 125938.png]]&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-28%20125938.png&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;So nun geht das ma los hier&lt;/p&gt;
-&lt;p&gt;![[Screenshot 2024-11-28 125938.png]]&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-28%20125938.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -27,9 +27,9 @@
       
       <guid>/posts/sec/</guid>
       <description>&lt;p&gt;So und jetzt?
-![[Screenshot 2024-11-20 162539.png]]&lt;/p&gt;</description>
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-20%20162539.png&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;So und jetzt?
-![[Screenshot 2024-11-20 162539.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-20%20162539.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     

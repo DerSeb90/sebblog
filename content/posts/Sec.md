@@ -7,4 +7,4 @@ tags:
   - awsomer
 ---
 So und jetzt?
-![[Screenshot 2024-11-20 162539.png]]
+![Image Description](/images/Screenshot%202024-11-20%20162539.png)
