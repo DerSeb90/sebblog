@@ -1,10 +1,10 @@
 ---
 title: My First Blog Post
-date: 28-11-2024
+date: 2024-11-28
 draft: false
 tags:
   - new
   - awsome
 ---
 So nun geht das ma los hier
-![[Screenshot 2024-11-28 125938 2.png]]
+!![Image Description](/images/Screenshot%202024-11-28%20125938%202.png)
