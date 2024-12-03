@@ -6,5 +6,5 @@ tags:
   - newer
   - awsomer
 ---
-So und jetzt?
+So und jetzt? Is schon schnell wa.
 ![Image Description](/images/Screenshot%202024-11-20%20162539.png)

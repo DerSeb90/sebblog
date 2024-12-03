@@ -1,8 +1,8 @@
 # PowerShell Script for Windows
 
 # Set variables for Obsidian to Hugo copy
-$sourcePath = "F:\Obsidian\PrivateNotizen\posts"
-$destinationPath = "C:\Users\Sebastian\Documents\repos\sebblog\content\posts"
+$sourcePath = "C:\Users\SebastianSeifert\Nextcloud2\Obsidian\PrivateNotizen\posts"
+$destinationPath = "C:\Users\SebastianSeifert\Documents\repos\sebblog\content\posts"
 
 # Set Github repo 
 $myrepo = "git@github.com:derseb90/sebblog.git"
