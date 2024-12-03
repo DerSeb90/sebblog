@@ -8,17 +8,4 @@ tags:
 ---
 So nun geht das ma los hier
 
-![Image Description](/images/Screenshot%202024-11-28%20125938.png)So nun geht das ma los hier
-
-![Image Description](/images/Screenshot%202024-11-28%20125938.png)
-
-
-
-So nun geht das ma los hier
-
-![Image Description](/images/Screenshot%202024-11-28%20125938.png)
-
-
-So nun geht das ma los hier
-
 ![Image Description](/images/Screenshot%202024-11-28%20125938.png)
