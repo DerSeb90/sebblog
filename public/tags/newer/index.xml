@@ -4,16 +4,21 @@
     <title>Newer on </title>
     <link>/tags/newer/</link>
     <description>Recent content in Newer on </description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/newer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/newer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Sec Blog Post</title>
       <link>/posts/sec/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>/posts/sec/</guid>
-      <description>&lt;p&gt;So und jetzt? Is schon schnell wa.&#xA;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-20%20162539.png&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;So und jetzt? Is schon schnell wa.
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-20%20162539.png&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;So und jetzt? Is schon schnell wa.
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-20%20162539.png&#34;&gt;&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
