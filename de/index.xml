@@ -4,8 +4,7 @@
     <title>Terminal</title>
     <link>/de/</link>
     <description>Recent content on Terminal</description>
-    <generator>Hugo</generator>
-    <language>de</language>
-    <atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
