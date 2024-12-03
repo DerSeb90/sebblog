@@ -6,14 +6,21 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog Post</title>
       <link>/posts/my-first-blog-post/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/posts/my-first-blog-post/</guid>
       <description>&lt;p&gt;So nun geht das ma los hier&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-28%20125938.png&#34;&gt;So nun geht das ma los hier&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-28%20125938.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;So nun geht das ma los hier&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-28%20125938.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;So nun geht das ma los hier&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-11-28%20125938.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>/posts/third-test/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/third-test/</guid>
+      <description>&lt;p&gt;Wie macht man das jetzt vernünftig? Iwie klappt das woanders nicht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Sec Blog Post</title>

@@ -6,13 +6,20 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awsome</title>
       <link>/tags/awsome/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/tags/awsome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>/tags/new/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/new/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +27,6 @@
       <link>/tags/awsomer/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/tags/awsomer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>New</title>
-      <link>/tags/new/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/new/</guid>
       <description></description>
     </item>
     <item>
